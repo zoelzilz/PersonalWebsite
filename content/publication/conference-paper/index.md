@@ -24,7 +24,7 @@ links:
 projects:
 - internal-project
 publication: Written for the [Coastal Ranches Conservancy](https://coastalranchesconservancy.org/)
-publication_short: In *CRC*
+publication_short: 
 publication_types:
 - "4"
 publishDate: "2021-01-01T00:00:00Z"
